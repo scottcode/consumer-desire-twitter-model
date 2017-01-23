@@ -1,0 +1,9 @@
+0 = can't judge (in another language, only a link, etc)
+n = not about tesla company/product
+m = only about Musk himself
+v = about business, news, current events
+i = by an individual
+c = by a company
+d = individual consumer desire/opinion
+b = intent to buy
++- = positive or negative sentiment
